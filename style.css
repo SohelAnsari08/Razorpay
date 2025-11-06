@@ -1,0 +1,7 @@
+.feature-section-box{
+    box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.304);
+    opacity: 0;
+}
+.feature-section-box:hover{
+
+}
